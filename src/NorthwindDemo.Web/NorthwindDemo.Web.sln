@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindDemo.Web", "NorthwindDemo.Web\NorthwindDemo.Web.csproj", "{87BB07FF-A4A9-40E2-946B-09B84198F8F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindowDemo.DomainModel", "..\NorthwindowDemo.DomainModel\NorthwindowDemo.DomainModel.csproj", "{3B42EA83-AAC6-4FCD-AE84-00A475D163F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{87BB07FF-A4A9-40E2-946B-09B84198F8F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87BB07FF-A4A9-40E2-946B-09B84198F8F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87BB07FF-A4A9-40E2-946B-09B84198F8F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B42EA83-AAC6-4FCD-AE84-00A475D163F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B42EA83-AAC6-4FCD-AE84-00A475D163F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B42EA83-AAC6-4FCD-AE84-00A475D163F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B42EA83-AAC6-4FCD-AE84-00A475D163F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
