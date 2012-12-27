@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindDemo.Web", "Northw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindowDemo.DomainModel", "..\NorthwindowDemo.DomainModel\NorthwindowDemo.DomainModel.csproj", "{3B42EA83-AAC6-4FCD-AE84-00A475D163F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindDemo.Data", "..\NorthwindDemo.Data\NorthwindDemo.Data.csproj", "{0ED1C496-5E2A-4719-9395-B372C07E5DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindDemo.Service", "..\NorthwindDemo.Service\NorthwindDemo.Service.csproj", "{13FC48F8-873E-4F73-A874-3CF525BBC974}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,14 @@ Global
 		{3B42EA83-AAC6-4FCD-AE84-00A475D163F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B42EA83-AAC6-4FCD-AE84-00A475D163F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B42EA83-AAC6-4FCD-AE84-00A475D163F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ED1C496-5E2A-4719-9395-B372C07E5DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED1C496-5E2A-4719-9395-B372C07E5DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED1C496-5E2A-4719-9395-B372C07E5DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED1C496-5E2A-4719-9395-B372C07E5DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13FC48F8-873E-4F73-A874-3CF525BBC974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FC48F8-873E-4F73-A874-3CF525BBC974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FC48F8-873E-4F73-A874-3CF525BBC974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FC48F8-873E-4F73-A874-3CF525BBC974}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
